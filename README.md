@@ -1,2 +1,3 @@
 # ci-ansible
-Simple image including all Ansible dependency for CI operations
+Simple image including Ansible for CI operations.
+- hvac installed for hashi_vault lookup
